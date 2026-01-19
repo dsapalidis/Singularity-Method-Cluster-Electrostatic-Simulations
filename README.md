@@ -1,7 +1,10 @@
 # Singularity-Method-Cluster-Electrostatic-Simulations
 A simple kinetic algorithm to create Reaction-Limited-Cluster-Aggregates (RLCA) of charged particles and simulate their electrostatic double-layer utilizing the Singularity Method. Constant potential and constant charge as surface charge regulation models can be used.
 
-<img src="SM-Cluster-Electrostatic-Potential.png" alt="Cluster electrostatic potential (singularity method)" width="800">
+<div style="display:flex; gap:16px; align-items:flex-start;">
+  <img src="SM-Cluster-Electrostatic-2D-Potential.png" alt="2D potential" width="480">
+  <img src="SM-Cluster-Electrostatic-3D-Potential.png" alt="3D potential" width="480">
+</div>
 
 
 A singularity method models the cluster electrostatic potential as a superposition of screened Coulomb (Yukawa) point singularities placed inside each sphere, with their strengths fitted to satisfy the boundary conditions (constant potential or constant charge) at surface control points. More information: Schießl, K. et al. , M. Calculation of double layer interaction between colloidal aggregates. Adv. Powder Technol. 23, 139–147 (2012).
