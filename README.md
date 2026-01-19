@@ -2,8 +2,8 @@
 A simple kinetic algorithm to create Reaction-Limited-Cluster-Aggregates (RLCA) of charged particles and simulate their electrostatic double-layer utilizing the Singularity Method. Constant potential and constant charge as surface charge regulation models can be used.
 
 <p align="center">
-  <img src="SM-Cluster-Electrostatic-2D-Potential.png" width="450" />
-  <img src="SM-Cluster-Electrostatic-3D-Potential.png" width="450" />
+  <img src="SM-Cluster-Electrostatic-2D-Potential.png" width="400" />
+  <img src="SM-Cluster-Electrostatic-3D-Potential.png" width="400" />
 </p>
 
 
